@@ -1,5 +1,5 @@
 {
-  "version": "12.85.11485",
+  "version": "12.85.11505",
   "files": [
     {
       "url": "3rdpartylicences/apache-v2.txt.lzma",
@@ -68,9 +68,9 @@
     {
       "url": "bin/client.exe.lzma",
       "localfile": "bin/client.exe",
-      "packedhash": "1f9573ce22bdae83e24f50fa1e9a4d64a1c63189248f51913021f580f5894e0d",
-      "packedsize": 3247423,
-      "unpackedhash": "e7124e753cebf856f5cb90121245b9599b88b0bb82d9794dfc6fa73019af3db7",
+      "packedhash": "d4551681eb85d04c76656482b2b59a3d779c8811459d30bc9e4c8b29a652d0e1",
+      "packedsize": 3247455,
+      "unpackedhash": "f3aaa62914a5ed5d9ec5da06882db56de1ddf0380c3f16c3e7be6f3710b337c7",
       "unpackedsize": 16044520
     },
     {
@@ -101,9 +101,9 @@
     {
       "url": "bin/graphics_resources.rcc.lzma",
       "localfile": "bin/graphics_resources.rcc",
-      "packedhash": "25999a359847561b243c8d241adc22971143f9d277a1c0cf13e2f0d6710f22f1",
-      "packedsize": 3933752,
-      "unpackedhash": "d484d4cab04db718bd92b831fd97809f0d94cab259df8f8f549519a8fd16cb66",
+      "packedhash": "bd31c5852feb483bb7768ee86079770d5e582aa3ac5a5a5e63ba5a934762e5ee",
+      "packedsize": 3933754,
+      "unpackedhash": "fcb97c1621acc11329027bd177afc9925211af66f92d10e6fb057550d18f9ef8",
       "unpackedsize": 4279278
     },
     {

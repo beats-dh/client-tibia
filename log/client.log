@@ -1,238 +1,28 @@
 [ 2022-01-08 17:21:15,014 ] Asset loading complete
-[ 2022-01-08 17:24:58,440 ] Asset loading complete
-[ 2022-01-08 17:25:52,128 ] Asset loading complete
-[ 2022-01-08 17:36:43,574 ] Asset loading complete
-[ 2022-01-08 17:41:52,865 ] Asset loading complete
-[ 2022-01-08 17:42:07,919 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "GOD" )
-[ 2022-01-08 17:42:07,945 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
-[ 2022-01-08 17:42:08,868 ] News query failed: "Error transferring http://127.0.0.1:8080/login.php - server replied: Not Implemented"
-[ 2022-01-08 17:42:12,067 ] Connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"  was disconnected ( "Connection refused" )
-[ 2022-01-08 17:42:13,089 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
-[ 2022-01-08 17:42:17,324 ] Connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"  was disconnected ( "Connection refused" )
-[ 2022-01-08 17:42:17,344 ] Disconnected from gameserver
-[ 2022-01-08 17:42:19,237 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "GOD" )
-[ 2022-01-08 17:42:19,291 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
-[ 2022-01-08 17:42:20,197 ] News query failed: "Error transferring http://127.0.0.1:8080/login.php - server replied: Not Implemented"
-[ 2022-01-08 17:42:23,915 ] Connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"  was disconnected ( "Connection refused" )
-[ 2022-01-08 17:42:24,915 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
-[ 2022-01-08 17:42:29,852 ] Connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"  was disconnected ( "Connection refused" )
-[ 2022-01-08 17:42:29,881 ] Disconnected from gameserver
-[ 2022-01-08 17:42:32,736 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "GOD" )
-[ 2022-01-08 17:42:32,789 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
-[ 2022-01-08 17:42:35,437 ] News query failed: "Error transferring http://127.0.0.1:8080/login.php - server replied: Not Implemented"
-[ 2022-01-08 17:42:37,779 ] Connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"  was disconnected ( "Connection refused" )
-[ 2022-01-08 17:42:40,967 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
-[ 2022-01-08 17:42:45,903 ] Connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"  was disconnected ( "Connection refused" )
-[ 2022-01-08 17:42:45,935 ] Disconnected from gameserver
-[ 2022-01-08 17:42:48,009 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "GOD" )
-[ 2022-01-08 17:42:48,076 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
-[ 2022-01-08 17:42:49,383 ] News query failed: "Error transferring http://127.0.0.1:8080/login.php - server replied: Not Implemented"
-[ 2022-01-08 17:42:52,769 ] Connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"  was disconnected ( "Connection refused" )
-[ 2022-01-08 17:42:53,779 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
-[ 2022-01-08 17:42:58,691 ] Connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"  was disconnected ( "Connection refused" )
-[ 2022-01-08 17:42:58,706 ] Disconnected from gameserver
-[ 2022-01-08 17:43:03,217 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "GOD" )
-[ 2022-01-08 17:43:03,283 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
-[ 2022-01-08 17:43:04,339 ] News query failed: "Error transferring http://127.0.0.1:8080/login.php - server replied: Not Implemented"
-[ 2022-01-08 17:43:08,280 ] Connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"  was disconnected ( "Connection refused" )
-[ 2022-01-08 17:43:09,532 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
-[ 2022-01-08 17:43:09,608 ] Connected to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
-[ 2022-01-08 17:43:09,917 ] Connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"  was disconnected ( "The remote host closed the connection" )
-[ 2022-01-08 17:43:09,944 ] Disconnected from gameserver
-[ 2022-01-08 17:43:49,671 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "GOD" )
-[ 2022-01-08 17:43:49,677 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
-[ 2022-01-08 17:43:49,680 ] Connected to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
-[ 2022-01-08 17:43:49,718 ] Connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"  was disconnected ( "The remote host closed the connection" )
-[ 2022-01-08 17:43:49,740 ] Disconnected from gameserver
-[ 2022-01-08 17:43:50,653 ] News query failed: "Error transferring http://127.0.0.1:8080/login.php - server replied: Not Implemented"
-[ 2022-01-08 17:43:52,504 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "GOD" )
-[ 2022-01-08 17:43:52,510 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
-[ 2022-01-08 17:43:52,513 ] Connected to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"
-[ 2022-01-08 17:43:52,570 ] Connection to gameserver  "tcp://127.0.0.1:7172" "OTServBR-Global"  was disconnected ( "The remote host closed the connection" )
-[ 2022-01-08 17:43:52,593 ] Disconnected from gameserver
-[ 2022-01-08 17:43:53,470 ] News query failed: "Error transferring http://127.0.0.1:8080/login.php - server replied: Not Implemented"
-[ 2022-01-08 17:44:05,086 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "GOD" )
-[ 2022-01-08 17:44:05,092 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "Canary"
-[ 2022-01-08 17:44:05,095 ] Connected to gameserver  "tcp://127.0.0.1:7172" "Canary"
-[ 2022-01-08 17:44:05,116 ] Connection to gameserver  "tcp://127.0.0.1:7172" "Canary"  was disconnected ( "The remote host closed the connection" )
-[ 2022-01-08 17:44:05,139 ] Disconnected from gameserver
-[ 2022-01-08 17:44:06,050 ] News query failed: "Error transferring http://127.0.0.1:8080/login.php - server replied: Not Implemented"
-[ 2022-01-08 17:49:43,828 ] Asset loading complete
-[ 2022-01-08 17:49:48,833 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "GOD" )
-[ 2022-01-08 17:49:48,855 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "Canary"
-[ 2022-01-08 17:49:48,857 ] Connected to gameserver  "tcp://127.0.0.1:7172" "Canary"
-[ 2022-01-08 17:49:48,882 ] Connection to gameserver  "tcp://127.0.0.1:7172" "Canary"  was disconnected ( "The remote host closed the connection" )
-[ 2022-01-08 17:49:48,897 ] Disconnected from gameserver
-[ 2022-01-08 17:49:49,780 ] News query failed: "Error transferring http://127.0.0.1:8080/login.php - server replied: Not Implemented"
-[ 2022-01-08 18:18:09,026 ] Asset loading complete
-[ 2022-01-08 18:18:12,797 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "GOD" )
-[ 2022-01-08 18:18:12,836 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "Canary"
-[ 2022-01-08 18:18:12,840 ] Connected to gameserver  "tcp://127.0.0.1:7172" "Canary"
-[ 2022-01-08 18:18:13,153 ] Error while processing network packet Unknown Gameserver Message: 7
-[ 2022-01-08 18:18:13,154 ] "FwYAABAyAAMPFQ2AA6n8A4ADfdW2fwEAAB4AaHR0cDovLzEyNy4wLjAuMS9pbWFnZXMvc3RvcmUvGQAAAO8HCAoPZIkTihMH0AEwJAD/0AE6JAD/0AE7JAD/0AFmJQD/0AEwJAD/0AEA/9ABAP/QAbcJAP/QAbgJAP/QAT4kAP+XTwD/l08A/5dPAP+XT5cB5AcA/5dPAP+bTwD/m08A/5dPAP+XTy4kAP/QATAkAP/QATAkAP/QATAkAP/QATAkAP/QATEkAP+ZTwD/mE8A/5dPAP+XTzYBAP+bTwD/l08A/5tPAP+XTwD/l08A/5dPAP+ZTwD/l08A/5dPAP+bTwD/l08A/5dPAP+XTwD/mE8A/wklMCRNGE4YRyQA/wklKyRHJAD/CSUrJEckAP8JJTokRyQA/wklOyRHJAD/CSUrJEckAP8JJSskRyQA/5dPKyRHJAD/KyRHJAD/l08rJE4jRyQA/5lPAP+XTwD/mE8A/5dPAP+ZASskRyQA/5kBKyRHJAD/mQErJEckAP+ZASskRyQA/5kBKyRHJAD/mQErJEckAP+ZASskRyQA/5kBKyRHJAD/mQErJEckAP+aAYsWKyROI0ckAP+XTwD/mU8A/5dPAP+YTwD/mgGnBwD/mgEA/5oBAP+aAQD/mgEA/5oBAP+aAQD/mgEA/5oBAP+aAYsWixYA/5hPAP+XTwD/mk8A/5lPAP+aAQD/mgEA/5oBAP+aAQD/mgEA/5oBAP+aAQD/mgEA/5oBAP+aAYsWAP+XTwD/mE8A/5tPAP+YTwD/mgGmBwD/mgEA/5oBAP+aAQD/mgEA/5oBAP+aAQD/mgEA/5oBAP+aAYsWAP+XTwD/l08A/5dPAP+XTwD/mgGmBwD/mgEA/5oBAP+aAQD/mgEA/5oBAP+aAWEAAAAAAAYAABAAAwBHT0RkAksAX3EncwAAAP8AyggAAAAAAAAA/wAAAP+aAQD/mgEA/5oBixaLFgD/l08A/5dPAP+aTwD/mE8A/5oBAP+aAQD/mgEA/5oBAP+aAQD/mgEtJAD/mgEwJEckAP+aATAkRyQA/5oBMCRHJAD/mgGLFosWMCROI0ckAP+ZTwD/l08A/5dPAP+XTwD/mgEA/5oBAP+aAQD/mgEA/5oBAP+aAS4kRiQA/5lPAP+ZT7oHAP+XT7oHAP+YT7oHAP+ZTwD/mU8A/5hPAP+XTwD/mgEA/5oBAP+aAQD/mgEA/5oBAP+aAS4kRiQA/5dPAP+XTwD/mk8A/5lPAP+ZTwD/mU8A/5lPAP+XTwD/mgFAJAD/mgEA/5oBAP+aAQD/mgEA/5oBLiRGJAD/mE8A/5hPAP+bTwD/mE8A/5dPAP+XTwD/l08A/5pPAP+hJwD/mgEA/5oBAP+aAQD/mgEA/5oBLiRGJAD/mU8A/5dPAP+YTwD/l08A/5hPAP+YTwD/mE8A/5tPAP+aAUAkAP+aAQD/mgEA/5oBAP+aAQD/mgEuJEYkAP+XTwD/mU8A/5dPAP+YTwD/l08A/5dPAP+XTwD/l08A/6EnAP+aAQD/mgEA/5oBAP+aAQD/mgEuJEYkAP+YTwD/l08A/5pPAP+ZTwD/l08A/5dPAP+XTwD/l08A/5oBQCQA/5oBAP+aAQD/mgEA/5oBAP+aAS4kRiQA/5dPAP+YTwD/m08A/5hPAP+XTwD/l08A/5dPAP+XTwD/oScA/5oBAP+hJwD/mgEA/5oBAP+aAS4kRiQA/5dPAP+XTwD/l08A/5dPAP+XTwD/mU8A/5lPAP+YTwD/aiUA/20lAP9oJQD/aiUA/20lAP9sJQD/aCUA/2clAP9tJQD/bSUA/2olAP9oJQD/aiUA/2glAP9tJQD/bCUA/2slAP9tJQD/bCUA/2slAP9rJQD/aCUA/2clAP9nJQD/bCUA/2slAP9oJQD/aSUA/2slMCQA/2slMCQA/2slMCQA/2slMCQA/2slMCROIwD/aiUA/2clAP9sJWcHAP9rJQD/aCUA/20lAP9tJQD/aiUA/2glAP+aAQD/mgEA/5oBAP+aAQD/mgGLFgD/bSUA/2clAP9tJQD/bSUA/2olAP9tJQD/bSUA/20lAP9tJQD/mgEA/5oBAP+aAQD/mgEA/5oBixYA/2clAP9oJQD/ZyUA/20lAP9tJQD/bSUA/20lAP9tJQD/bSUA/5oBAP+aAQD/mgEA/5oBAP+aATQkRiMA/2clAP9nJQD/bCUA/2slAP9oJQD/ZyUA/20lAP9nJQD/bSUA/5oBAP+aAQD/mgEA/5oBAP+aATQkAP9tJQD/ZyUA/20lAP9tJQD/aiUA/2clZwcA/2clAP9tJQD/ZyUA/5oBAP+aAQD/mgEA/5oBAP+aATQkAP9nJQD/aCUA/2clAP9tJQD/bSUA/20lAP9nJQD/bSUA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"
-[ 2022-01-08 18:18:26,201 ] Asset loading complete
-[ 2022-01-08 18:59:10,645 ] Asset loading complete
-[ 2022-01-08 18:59:15,731 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "GOD" )
-[ 2022-01-08 18:59:15,751 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "Canary"
-[ 2022-01-08 18:59:15,755 ] Connected to gameserver  "tcp://127.0.0.1:7172" "Canary"
-[ 2022-01-08 18:59:16,711 ] News query failed: "Error transferring http://127.0.0.1:8080/login.php - server replied: Not Implemented"
-[ 2022-01-08 19:03:34,641 ] Error while processing network packet not enough bytes (2) available at position 86
-[ 2022-01-08 19:03:34,641 ] "+QIEAAAASg/aYQAAZlZkAAoAAAAAAAAAA/AP2mEAAGZWSwBkAAAAAAAAAAP5D9phAABmVmQACgAAAAAAAAAD/Q/aYQAAZlZkAAEAAAAAAAAAAwAAAAA="
-[ 2022-01-08 19:04:07,278 ] Asset loading complete
-[ 2022-01-08 19:04:22,306 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "Knight Sample" )
-[ 2022-01-08 19:04:22,331 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "Canary"
-[ 2022-01-08 19:04:22,334 ] Connected to gameserver  "tcp://127.0.0.1:7172" "Canary"
-[ 2022-01-08 19:04:23,620 ] News query failed: "Error transferring http://127.0.0.1:8080/login.php - server replied: Not Implemented"
-[ 2022-01-08 19:04:37,214 ] Error while processing network packet not enough bytes (2) available at position 68
-[ 2022-01-08 19:04:37,215 ] "+QIBAAAAcRHaYQAAZlbIAAoAAAAAAAAAAwIAAAAREdphAABmVmQACgAAAAAAAAADKBLaYQAA2AwAAQAKAAAAAAAAAAM="
-[ 2022-01-08 19:04:47,090 ] Asset loading complete
-[ 2022-01-08 19:05:01,382 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "GOD" )
-[ 2022-01-08 19:05:01,408 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "Canary"
-[ 2022-01-08 19:05:01,410 ] Connected to gameserver  "tcp://127.0.0.1:7172" "Canary"
-[ 2022-01-08 19:05:02,362 ] News query failed: "Error transferring http://127.0.0.1:8080/login.php - server replied: Not Implemented"
-[ 2022-01-08 19:06:52,527 ] Asset loading complete
-[ 2022-01-08 19:06:57,558 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "GOD" )
-[ 2022-01-08 19:06:57,587 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "Canary"
-[ 2022-01-08 19:06:57,590 ] Connected to gameserver  "tcp://127.0.0.1:7172" "Canary"
-[ 2022-01-08 19:06:58,545 ] News query failed: "Error transferring http://127.0.0.1:8080/login.php - server replied: Not Implemented"
-[ 2022-01-08 19:13:42,173 ] Connection to gameserver  "tcp://127.0.0.1:7172" "Canary"  was disconnected ( "The remote host closed the connection" )
-[ 2022-01-08 19:13:42,329 ] Disconnected from gameserver
-[ 2022-01-08 19:13:43,822 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "Druid Sample" )
-[ 2022-01-08 19:13:43,845 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "Canary"
-[ 2022-01-08 19:13:43,849 ] Connected to gameserver  "tcp://127.0.0.1:7172" "Canary"
-[ 2022-01-08 19:13:44,953 ] News query failed: "Error transferring http://127.0.0.1:8080/login.php - server replied: Not Implemented"
-[ 2022-01-08 19:13:46,383 ] Connection to gameserver  "tcp://127.0.0.1:7172" "Canary"  was disconnected ( "The remote host closed the connection" )
-[ 2022-01-08 19:13:46,552 ] Disconnected from gameserver
-[ 2022-01-08 19:13:49,730 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "Knight Sample" )
-[ 2022-01-08 19:13:49,741 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "Canary"
-[ 2022-01-08 19:13:49,746 ] Connected to gameserver  "tcp://127.0.0.1:7172" "Canary"
-[ 2022-01-08 19:13:50,750 ] News query failed: "Error transferring http://127.0.0.1:8080/login.php - server replied: Not Implemented"
-[ 2022-01-08 19:14:03,762 ] Connection to gameserver  "tcp://127.0.0.1:7172" "Canary"  was disconnected ( "The remote host closed the connection" )
-[ 2022-01-08 19:14:03,923 ] Disconnected from gameserver
-[ 2022-01-08 19:14:05,858 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "Paladin Sample" )
-[ 2022-01-08 19:14:05,861 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "Canary"
-[ 2022-01-08 19:14:05,873 ] Connected to gameserver  "tcp://127.0.0.1:7172" "Canary"
-[ 2022-01-08 19:14:07,265 ] News query failed: "Error transferring http://127.0.0.1:8080/login.php - server replied: Not Implemented"
-[ 2022-01-08 19:14:14,769 ] Connection to gameserver  "tcp://127.0.0.1:7172" "Canary"  was disconnected ( "The remote host closed the connection" )
-[ 2022-01-08 19:14:14,935 ] Disconnected from gameserver
-[ 2022-01-08 19:14:41,430 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "Knight Sample" )
-[ 2022-01-08 19:14:41,445 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "Canary"
-[ 2022-01-08 19:14:41,445 ] Connected to gameserver  "tcp://127.0.0.1:7172" "Canary"
-[ 2022-01-08 19:14:42,509 ] News query failed: "Error transferring http://127.0.0.1:8080/login.php - server replied: Not Implemented"
-[ 2022-01-08 19:16:57,220 ] Connection to gameserver  "tcp://127.0.0.1:7172" "Canary"  was disconnected ( "The remote host closed the connection" )
-[ 2022-01-08 19:16:57,365 ] Disconnected from gameserver
-[ 2022-01-08 19:16:59,265 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "Paladin Sample" )
-[ 2022-01-08 19:16:59,277 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "Canary"
-[ 2022-01-08 19:16:59,282 ] Connected to gameserver  "tcp://127.0.0.1:7172" "Canary"
-[ 2022-01-08 19:17:00,775 ] News query failed: "Error transferring http://127.0.0.1:8080/login.php - server replied: Not Implemented"
-[ 2022-01-08 19:19:52,689 ] Connection to gameserver  "tcp://127.0.0.1:7172" "Canary"  was disconnected ( "The remote host closed the connection" )
-[ 2022-01-08 19:19:52,929 ] Disconnected from gameserver
-[ 2022-01-08 19:19:55,747 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "Knight Sample" )
-[ 2022-01-08 19:19:55,768 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "Canary"
-[ 2022-01-08 19:19:55,771 ] Connected to gameserver  "tcp://127.0.0.1:7172" "Canary"
-[ 2022-01-08 19:19:56,757 ] News query failed: "Error transferring http://127.0.0.1:8080/login.php - server replied: Not Implemented"
-[ 2022-01-08 19:42:19,303 ] Connection to gameserver  "tcp://127.0.0.1:7172" "Canary"  was disconnected ( "The remote host closed the connection" )
-[ 2022-01-08 19:42:19,444 ] Disconnected from gameserver
-[ 2022-01-08 19:59:06,395 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "Knight Sample" )
-[ 2022-01-08 19:59:06,407 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "Canary"
-[ 2022-01-08 19:59:06,423 ] Connected to gameserver  "tcp://127.0.0.1:7172" "Canary"
-[ 2022-01-08 19:59:07,482 ] News query failed: "Error transferring http://127.0.0.1:8080/login.php - server replied: Not Implemented"
-[ 2022-01-08 19:59:16,027 ] Connection to gameserver  "tcp://127.0.0.1:7172" "Canary"  was disconnected ( "The remote host closed the connection" )
-[ 2022-01-08 19:59:16,168 ] Disconnected from gameserver
-[ 2022-01-08 19:59:17,821 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "GOD" )
-[ 2022-01-08 19:59:17,833 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "Canary"
-[ 2022-01-08 19:59:17,835 ] Connected to gameserver  "tcp://127.0.0.1:7172" "Canary"
-[ 2022-01-08 19:59:18,813 ] News query failed: "Error transferring http://127.0.0.1:8080/login.php - server replied: Not Implemented"
-[ 2022-01-08 20:01:43,140 ] Connection to gameserver  "tcp://127.0.0.1:7172" "Canary"  was disconnected ( "The remote host closed the connection" )
-[ 2022-01-08 20:01:43,386 ] Disconnected from gameserver
-[ 2022-01-08 20:01:45,599 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "Knight Sample" )
-[ 2022-01-08 20:01:45,621 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "Canary"
-[ 2022-01-08 20:01:45,627 ] Connected to gameserver  "tcp://127.0.0.1:7172" "Canary"
-[ 2022-01-08 20:01:46,817 ] News query failed: "Error transferring http://127.0.0.1:8080/login.php - server replied: Not Implemented"
-[ 2022-01-08 20:03:16,198 ] Connection to gameserver  "tcp://127.0.0.1:7172" "Canary"  was disconnected ( "The remote host closed the connection" )
-[ 2022-01-08 20:03:16,420 ] Disconnected from gameserver
-[ 2022-01-08 20:03:18,388 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "Paladin Sample" )
-[ 2022-01-08 20:03:18,439 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "Canary"
-[ 2022-01-08 20:03:18,444 ] Connected to gameserver  "tcp://127.0.0.1:7172" "Canary"
-[ 2022-01-08 20:03:19,369 ] News query failed: "Error transferring http://127.0.0.1:8080/login.php - server replied: Not Implemented"
-[ 2022-01-08 20:03:27,781 ] Connection to gameserver  "tcp://127.0.0.1:7172" "Canary"  was disconnected ( "The remote host closed the connection" )
-[ 2022-01-08 20:03:28,055 ] Disconnected from gameserver
-[ 2022-01-08 20:03:30,026 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "GOD" )
-[ 2022-01-08 20:03:30,048 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "Canary"
-[ 2022-01-08 20:03:30,051 ] Connected to gameserver  "tcp://127.0.0.1:7172" "Canary"
-[ 2022-01-08 20:03:32,362 ] News query failed: "Error transferring http://127.0.0.1:8080/login.php - server replied: Not Implemented"
-[ 2022-01-08 20:03:35,062 ] Connection to gameserver  "tcp://127.0.0.1:7172" "Canary"  was disconnected ( "The remote host closed the connection" )
-[ 2022-01-08 20:03:35,345 ] Disconnected from gameserver
-[ 2022-01-08 20:03:37,389 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "Paladin Sample" )
-[ 2022-01-08 20:03:37,406 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "Canary"
-[ 2022-01-08 20:03:37,409 ] Connected to gameserver  "tcp://127.0.0.1:7172" "Canary"
-[ 2022-01-08 20:03:40,595 ] News query failed: "Error transferring http://127.0.0.1:8080/login.php - server replied: Not Implemented"
-[ 2022-01-08 20:07:56,301 ] Connection to gameserver  "tcp://127.0.0.1:7172" "Canary"  was disconnected ( "The remote host closed the connection" )
-[ 2022-01-08 20:07:56,583 ] Disconnected from gameserver
-[ 2022-01-08 20:07:58,820 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "Knight Sample" )
-[ 2022-01-08 20:07:58,839 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "Canary"
-[ 2022-01-08 20:07:58,845 ] Connected to gameserver  "tcp://127.0.0.1:7172" "Canary"
-[ 2022-01-08 20:07:59,837 ] News query failed: "Error transferring http://127.0.0.1:8080/login.php - server replied: Not Implemented"
-[ 2022-01-08 20:08:50,019 ] Connection to gameserver  "tcp://127.0.0.1:7172" "Canary"  was disconnected ( "The remote host closed the connection" )
-[ 2022-01-08 20:08:50,362 ] Disconnected from gameserver
-[ 2022-01-08 20:08:52,543 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "Paladin Sample" )
-[ 2022-01-08 20:08:52,564 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "Canary"
-[ 2022-01-08 20:08:52,571 ] Connected to gameserver  "tcp://127.0.0.1:7172" "Canary"
-[ 2022-01-08 20:08:53,571 ] News query failed: "Error transferring http://127.0.0.1:8080/login.php - server replied: Not Implemented"
-[ 2022-01-08 20:09:22,311 ] Connection to gameserver  "tcp://127.0.0.1:7172" "Canary"  was disconnected ( "The remote host closed the connection" )
-[ 2022-01-08 20:09:22,523 ] Disconnected from gameserver
-[ 2022-01-08 20:09:29,837 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "Knight Sample" )
-[ 2022-01-08 20:09:29,858 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "Canary"
-[ 2022-01-08 20:09:29,861 ] Connected to gameserver  "tcp://127.0.0.1:7172" "Canary"
-[ 2022-01-08 20:09:31,340 ] News query failed: "Error transferring http://127.0.0.1:8080/login.php - server replied: Not Implemented"
-[ 2022-01-08 20:11:43,446 ] Connection to gameserver  "tcp://127.0.0.1:7172" "Canary"  was disconnected ( "The remote host closed the connection" )
-[ 2022-01-08 20:11:43,681 ] Disconnected from gameserver
-[ 2022-01-08 20:11:45,651 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "Paladin Sample" )
-[ 2022-01-08 20:11:45,687 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "Canary"
-[ 2022-01-08 20:11:45,695 ] Connected to gameserver  "tcp://127.0.0.1:7172" "Canary"
-[ 2022-01-08 20:11:46,671 ] News query failed: "Error transferring http://127.0.0.1:8080/login.php - server replied: Not Implemented"
-[ 2022-01-08 20:12:17,329 ] Connection to gameserver  "tcp://127.0.0.1:7172" "Canary"  was disconnected ( "The remote host closed the connection" )
-[ 2022-01-08 20:12:17,680 ] Disconnected from gameserver
-[ 2022-01-08 20:16:07,371 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "Knight Sample" )
-[ 2022-01-08 20:16:07,393 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "Canary"
-[ 2022-01-08 20:16:07,396 ] Connected to gameserver  "tcp://127.0.0.1:7172" "Canary"
-[ 2022-01-08 20:16:08,637 ] News query failed: "Error transferring http://127.0.0.1:8080/login.php - server replied: Not Implemented"
-[ 2022-01-08 20:17:05,383 ] Connection to gameserver  "tcp://127.0.0.1:7172" "Canary"  was disconnected ( "The remote host closed the connection" )
-[ 2022-01-08 20:17:05,603 ] Disconnected from gameserver
-[ 2022-01-08 20:17:08,513 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "Paladin Sample" )
-[ 2022-01-08 20:17:08,515 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "Canary"
-[ 2022-01-08 20:17:08,532 ] Connected to gameserver  "tcp://127.0.0.1:7172" "Canary"
-[ 2022-01-08 20:17:09,668 ] News query failed: "Error transferring http://127.0.0.1:8080/login.php - server replied: Not Implemented"
-[ 2022-01-08 20:17:34,102 ] Connection to gameserver  "tcp://127.0.0.1:7172" "Canary"  was disconnected ( "The remote host closed the connection" )
-[ 2022-01-08 20:17:34,369 ] Disconnected from gameserver
-[ 2022-01-08 20:17:59,827 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "Paladin Sample" )
-[ 2022-01-08 20:17:59,850 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "Canary"
-[ 2022-01-08 20:17:59,855 ] Connected to gameserver  "tcp://127.0.0.1:7172" "Canary"
-[ 2022-01-08 20:18:00,957 ] News query failed: "Error transferring http://127.0.0.1:8080/login.php - server replied: Not Implemented"
-[ 2022-01-08 20:19:13,098 ] Connection to gameserver  "tcp://127.0.0.1:7172" "Canary"  was disconnected ( "The remote host closed the connection" )
-[ 2022-01-08 20:19:13,449 ] Disconnected from gameserver
-[ 2022-01-08 20:19:17,588 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "Paladin Sample" )
-[ 2022-01-08 20:19:17,629 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "Canary"
-[ 2022-01-08 20:19:17,650 ] Connected to gameserver  "tcp://127.0.0.1:7172" "Canary"
-[ 2022-01-08 20:19:18,902 ] News query failed: "Error transferring http://127.0.0.1:8080/login.php - server replied: Not Implemented"
-[ 2022-01-08 20:19:42,350 ] Connection to gameserver  "tcp://127.0.0.1:7172" "Canary"  was disconnected ( "The remote host closed the connection" )
-[ 2022-01-08 20:19:42,568 ] Disconnected from gameserver
-[ 2022-01-08 20:19:44,542 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "Knight Sample" )
-[ 2022-01-08 20:19:44,589 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "Canary"
-[ 2022-01-08 20:19:44,591 ] Connected to gameserver  "tcp://127.0.0.1:7172" "Canary"
-[ 2022-01-08 20:19:45,538 ] News query failed: "Error transferring http://127.0.0.1:8080/login.php - server replied: Not Implemented"
-[ 2022-01-08 20:20:45,983 ] Connection to gameserver  "tcp://127.0.0.1:7172" "Canary"  was disconnected ( "The remote host closed the connection" )
-[ 2022-01-08 20:20:46,229 ] Disconnected from gameserver
-[ 2022-01-08 20:20:48,278 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "Paladin Sample" )
-[ 2022-01-08 20:20:48,297 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "Canary"
-[ 2022-01-08 20:20:48,302 ] Connected to gameserver  "tcp://127.0.0.1:7172" "Canary"
-[ 2022-01-08 20:20:49,700 ] News query failed: "Error transferring http://127.0.0.1:8080/login.php - server replied: Not Implemented"
-[ 2022-01-08 20:26:47,448 ] News query failed: "Error transferring http://127.0.0.1:8080/login.php - server replied: Not Implemented"
-[ 2022-01-08 20:27:03,110 ] News query failed: "Error transferring http://127.0.0.1:8080/login.php - server replied: Not Implemented"
-[ 2022-01-08 20:39:00,170 ] Connection to gameserver  "tcp://127.0.0.1:7172" "Canary"  was disconnected ( "The remote host closed the connection" )
-[ 2022-01-08 20:39:00,559 ] Disconnected from gameserver
-[ 2022-01-08 20:56:03,832 ] Asset loading complete
-[ 2022-01-08 20:58:17,319 ] Asset loading complete
-[ 2022-01-08 20:58:58,657 ] Asset loading complete
-[ 2022-01-08 20:59:15,894 ] Asset loading complete
-[ 2022-01-08 21:35:18,185 ] Asset loading complete
+[ 2022-01-13 23:33:29,842 ] Asset loading complete
+[ 2022-01-14 00:03:25,805 ] Asset loading complete
+[ 2022-01-14 00:06:03,983 ] Asset loading complete
+[ 2022-01-14 00:08:41,725 ] Asset loading complete
+[ 2022-01-14 00:12:06,045 ] Asset loading complete
+[ 2022-01-14 00:15:09,747 ] Asset loading complete
+[ 2022-01-14 00:17:03,322 ] Asset loading complete
+[ 2022-01-14 00:17:09,567 ] BattlEye: "Initialized (v1.246)"
+[ 2022-01-14 00:17:09,567 ] BattlEye: "Restarting client is necessary, service isn't running properly"
+[ 2022-01-14 00:17:09,569 ] BattlEye: "Restarting client is necessary, update required"
+[ 2022-01-14 00:17:09,734 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "GOD" )
+[ 2022-01-14 00:17:09,755 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "canary"
+[ 2022-01-14 00:17:09,758 ] Connected to gameserver  "tcp://127.0.0.1:7172" "canary"
+[ 2022-01-14 00:17:09,774 ] Connection to gameserver  "tcp://127.0.0.1:7172" "canary"  was disconnected ( "The remote host closed the connection" )
+[ 2022-01-14 00:17:09,789 ] Disconnected from gameserver
+[ 2022-01-14 00:17:10,708 ] News query failed: "Error transferring http://127.0.0.1:8080/login.php - server replied: Not Implemented"
+[ 2022-01-14 00:17:59,472 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "GOD" )
+[ 2022-01-14 00:17:59,481 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "Canary"
+[ 2022-01-14 00:17:59,494 ] Connected to gameserver  "tcp://127.0.0.1:7172" "Canary"
+[ 2022-01-14 00:18:00,465 ] News query failed: "Error transferring http://127.0.0.1:8080/login.php - server replied: Not Implemented"
+[ 2022-01-14 00:19:18,975 ] Connection to gameserver  "tcp://127.0.0.1:7172" "Canary"  was disconnected ( "The remote host closed the connection" )
+[ 2022-01-14 00:19:19,129 ] Disconnected from gameserver
+[ 2022-01-14 00:19:20,710 ] Request connection to gameserver  "tcp://127.0.0.1:7172"  (unprotected:  "tcp://127.0.0.1:7172" )  requested (Charakter "Paladin Sample" )
+[ 2022-01-14 00:19:20,713 ] Request connection to gameserver  "tcp://127.0.0.1:7172" "Canary"
+[ 2022-01-14 00:19:20,726 ] Connected to gameserver  "tcp://127.0.0.1:7172" "Canary"
+[ 2022-01-14 00:19:21,773 ] News query failed: "Error transferring http://127.0.0.1:8080/login.php - server replied: Not Implemented"
+[ 2022-01-14 00:27:44,549 ] Asset loading complete
