@@ -33,21 +33,21 @@
         {
             "colordark": "#1d5263",
             "colorlight": "#24657b",
-            "description": "Loot Event! Monsters carry more loot than usual.",
-            "displaypriority": 2,
-            "enddate": 1638781200,
-            "isseasonal": false,
-            "name": "Loot Event",
-            "startdate": 1638522000
-        },
-        {
-            "colordark": "#1d5263",
-            "colorlight": "#24657b",
             "description": "Spawn Rate Event! Monsters respawn at a faster rate.",
             "displaypriority": 2,
             "enddate": 1638781200,
             "isseasonal": false,
             "name": "Rapid Respawn",
+            "startdate": 1638522000
+        },
+        {
+            "colordark": "#1d5263",
+            "colorlight": "#24657b",
+            "description": "Loot Event! Monsters carry more loot than usual.",
+            "displaypriority": 2,
+            "enddate": 1638781200,
+            "isseasonal": false,
+            "name": "Loot Event",
             "startdate": 1638522000
         },
         {
@@ -169,6 +169,16 @@
             "isseasonal": true,
             "name": "Carnival Month",
             "startdate": 1643706000
+        },
+        {
+            "colordark": "#1d5263",
+            "colorlight": "#24657b",
+            "description": "Spawn Rate Event! Monsters respawn at a faster rate.",
+            "displaypriority": 2,
+            "enddate": 1644224400,
+            "isseasonal": false,
+            "name": "Rapid Respawn",
+            "startdate": 1643965200
         },
         {
             "colordark": "#735D10",
@@ -661,5 +671,5 @@
             "startdate": 1676365200
         }
     ],
-    "lastupdatetimestamp": 1642133164
+    "lastupdatetimestamp": 1643210253
 }
